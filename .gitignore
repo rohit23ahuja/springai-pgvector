@@ -180,3 +180,4 @@ buildNumber.properties
 .settings/
 src/main/resources/database.xml
 src/main/resources/database.xml
+src/main/resources/docs/spring-boot-reference.pdf
